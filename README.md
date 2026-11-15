@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Integration+Tech+Lead+@+MC+Digital;Kafka+·+Solace+·+Gravitee+·+Apigee;Oracle+SOA+Suite+·+Oracle+Data+Integrator;Home+energy+%26+automation+·+Homelabber+🏠" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Integration Tech Lead @ MC Digital" />
 </p>
 
 <p align="center">
@@ -118,8 +118,7 @@ Outside my day job I build things in my **homelab**, and some of them end up run
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiagoa77&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoa77&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="./assets/metrics.svg" alt="GitHub metrics (public and private repositories)" />
 </p>
 
 ---

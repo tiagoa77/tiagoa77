@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="50" viewBox="0 0 650 50">
+  <style>
+    text {
+      font-family: "Fira Code", "JetBrains Mono", Consolas, "Courier New", monospace;
+      font-size: 20px;
+      font-weight: 500;
+      fill: #38BDF8;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      clip-path: inset(0 100% 0 0);
+      animation: type 16s infinite;
+    }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    .l4 { animation-delay: 12s; }
+    @keyframes type {
+      0%   { clip-path: inset(0 100% 0 0); }
+      12%  { clip-path: inset(0 0 0 0); animation-timing-function: steps(1); }
+      22%  { clip-path: inset(0 0 0 0); }
+      25%  { clip-path: inset(0 100% 0 0); }
+      100% { clip-path: inset(0 100% 0 0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      text { animation: none; clip-path: none; }
+      .l2, .l3, .l4 { display: none; }
+    }
+  </style>
+  <text class="l1" x="325" y="25">Integration Tech Lead @ MC Digital</text>
+  <text class="l2" x="325" y="25">Kafka · Solace · Gravitee · Apigee</text>
+  <text class="l3" x="325" y="25">Oracle SOA Suite · Oracle Data Integrator</text>
+  <text class="l4" x="325" y="25">Home energy &amp; automation · Homelabber 🏠</text>
+</svg>
