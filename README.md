@@ -128,7 +128,7 @@ Outside my day job I build things in my **homelab**, and some of them end up run
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-augusto-129820b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_HERE"><img src="https://img.shields.io/badge/Email-get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tiago.a77@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
