@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Integration+Tech+Lead+@+MC+Digital;Kafka+·+Solace+·+Gravitee+·+Apigee;Oracle+SOA+Suite+·+Oracle+Data+Integrator;Home+energy+%26+automation+·+Homelabber+🏠" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Integration Tech Lead @ MC Digital" />
 </p>
 
 <p align="center">
@@ -111,6 +111,14 @@ Outside my day job I build things in my **homelab**, and some of them end up run
   <img src="https://img.shields.io/badge/Infisical-000000?style=flat-square&logo=infisical&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="./assets/metrics.svg" alt="GitHub metrics (public and private repositories)" />
 </p>
 
 ---

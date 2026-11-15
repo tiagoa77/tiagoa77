@@ -1,0 +1,34 @@
+name: GitHub metrics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Classic personal access token with the "repo" and "read:user" scopes,
+          # so private repositories are counted.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Lisbon
+          config_display: large
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
